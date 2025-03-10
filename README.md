@@ -1,6 +1,6 @@
 # 📰🌐 News Scraper with Web Interface
 - [النسخة العربية](AR-README.md)
-- 
+  
 This is a Python project that scrapes headlines from a news website (e.g., BBC News) and displays them in a simple local web interface using Gradio. You can also refresh the news headlines by clicking a button.
 
 
