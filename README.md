@@ -22,6 +22,7 @@ This is a Python project that scrapes headlines from a news website (e.g., BBC N
 1. Clone this repository :
 ```bash
 git clone https://github.com/LaithALhaware/Web-Scraper-for-News-Websites.git
+cd 'Web-Scraper-for-News-Websites'
 ```
 
 2. Install the required dependencies :
