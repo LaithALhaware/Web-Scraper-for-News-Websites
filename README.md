@@ -49,7 +49,7 @@ python app.py
 
 
 ## 👍 Example output from the code goes here 
-![Image](Images/Example.JPG)
+![Alt Text](Main.png)
 
 
 ## 📝 License
