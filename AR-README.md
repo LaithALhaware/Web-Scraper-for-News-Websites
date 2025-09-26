@@ -46,7 +46,7 @@ python app.py
 
 
 ## 👍 مثال عن الواجهه 
-![Image](Images/Example.JPG)
+![Alt Text](Main.png)
 
 
 ## 📝 الترخيص
